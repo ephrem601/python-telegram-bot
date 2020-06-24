@@ -173,7 +173,7 @@ def learn_physics(update, context):
  
 def main():
     print("Running...")
-    bot_token = "1187308654:AAE2JsgFgVudYpk_V_wR6jxbuX_ik8mdQuI"
+    bot_token = "<token>"
      
     updater = Updater(bot_token, use_context=True)
     # a dispatcher disconnects from the server
