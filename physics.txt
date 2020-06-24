@@ -1,0 +1,72 @@
+Unit 4 is Electromagnetism.
+welcome to /physics classroom to restart type /start in your 
+message dialog you can ask any question or formulas I will
+try my best to give you an accurate response.
+
+It is important to remember the definition of physics as
+it is the branch of natural science that studies 
+about mater, its motion and behavior through space and 
+time, and the related entities of energy and force.
+
+magnetic flux a measure of the strength of a magnetic field over a given area.
+Permeability is the degree of magnetisation that a material obtains in response
+to an applied magnetic field and it is represented by the Greek letter μ.
+
+Inductance is defined as the property inan electrical 
+circuit where a change in the electric current through 
+that circuit induces an e.m.f. that opposes the change in
+current. The Henry is its SI unit.
+
+alternating current AC an electric current that periodically 
+reverses direction transformer a device that transfers electrical 
+energy from one circuit to another, usually with a change of voltage.
+
+step down transformer one in which the output AC voltage is less than the input. 
+
+step up transformer one in which the output AC voltage is greater than the input.
+An idial transformer supposed to have the equation of Power out = Power in.
+Magnetic flux = magnetic flux density(magnetic field strength) × area.
+The unit for magnetic flux is Tm2 because B has the unit T and A has the unit m 2 .
+
+Faraday’s law of induction states that the size of the induced e.m.f. in volts
+is proportional to the rate at which the conductor is cutting through the flux lines.
+
+Lenz’s law states that the direction of the induced current is such as to oppose the
+change that is causing it.
+
+Self inductance is the inductance that arises within a coil. Mutual inductance
+occurs when a coil is in close proximity to another.
+
+You find the direction of induced currents, given the direction of motion of the
+conductor and the direction of a magnetic field, using the right-hand rule. 
+
+The factors that affect the magnitude of induced emf in a conductor are the speed
+at which the conductor cuts the lines of flux and the strength of the magnetic field.
+
+Unit 5 is Electronics.
+
+Electronics is the study and design of systems that use the flow of
+electrons through such components as semiconductors, resistors
+and capacitors.
+
+Cathode rays are a beam of electrons moving through a vacuum
+at a high speed which are produced by an electron gun, which is a
+vacuum tube device. 
+
+thermionic emission is the escape of electrons from a heated metal surface.
+
+cathode ray oscilloscope is electronic test equipment that provides visual images
+of electrical signals and oscillations.
+
+The thermionic diode, a vacuum tube, is now almost obsolete, its
+job is now being performed by the semiconductor diode.
+
+A p–n junction acts as a diode, and will conduct in one direction only.
+
+A semiconductor diode can produce half-wave rectification from an alternating supply.
+
+a diode is an electrical component with two electrodes, used for rectification.
+rectification converting alternating current to direct current.
+
+an electron gun is an electrical component producing a beam of electrons moving through a
+vacuum at high speed.
