@@ -2,8 +2,7 @@ from telegram.ext import (
         Updater, 
         CommandHandler, 
         MessageHandler, 
-        Filters,
-        CallbackQueryHandler
+        Filters
     )
 # from googlemaps import Client as GoogleMaps
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
